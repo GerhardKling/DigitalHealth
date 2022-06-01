@@ -1,5 +1,5 @@
 # DigitalHealth
-This repository contains our data and codes related to the project "Modelling the growth effects of sharing health data in ASEAN countries" by Gerhard Kling (University of Aberdeen), Aravinda Meera Guntupalli (University of Aberdeen), and Gazi Salah Uddin (Linköping University).
+This repository contains our data and codes related to the project "Modelling the growth effects of sharing health data in ASEAN countries" by Gerhard Kling (University of Aberdeen), Aravinda Meera Guntupalli (University of Aberdeen), and Gazi Salah Uddin (Linköping University). We are grateful for the financial support provided by ERIA.
 
 # World Development Indicators: Reshaping Data using Stata
 This video demonstrates data wrangling in Stata. I show you how to get data from the World Development Indicators database into a useable panel data format. We cover the insheet, sort, by, forvalues (loops), and expand commands in Stata. A similar approach can be used for other data providers.
